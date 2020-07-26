@@ -17,7 +17,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/home-recorded.html"/>
         <id>https://ioionu.github.io/shaneblade.com/home-recorded.html</id>
 
-        <updated>2020-07-26T20:32:33+10:00</updated>
+        <updated>2020-07-26T20:50:25+10:00</updated>
             <summary>
                 <![CDATA[
                      Visit Official Home Recorded Website Featured Artists Rain Blue Ward Skul Shane Blade Razzle Fizzy MOTI 
@@ -70,7 +70,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/merch.html"/>
         <id>https://ioionu.github.io/shaneblade.com/merch.html</id>
 
-        <updated>2020-07-26T20:32:33+10:00</updated>
+        <updated>2020-07-26T20:50:25+10:00</updated>
             <summary>
                 <![CDATA[
                      Insert paypal links 
@@ -82,6 +82,22 @@
   <p>
     Insert paypal links
   </p>
+<div><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" value="io@ioio.nu">
+<input type="hidden" name="lc" value="AU">
+<input type="hidden" name="item_name" value="Good Vibes">
+<input type="hidden" name="item_number" value="69">
+<input type="hidden" name="amount" value="0.01">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="shipping" value="0.00">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest">
+<input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img loading="lazy" alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" data-is-external-image="true"  width="1" height="1">
+</form>
+</div>
             ]]>
         </content>
     </entry>
@@ -93,7 +109,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/video.html"/>
         <id>https://ioionu.github.io/shaneblade.com/video.html</id>
 
-        <updated>2020-07-26T20:32:33+10:00</updated>
+        <updated>2020-07-26T20:50:25+10:00</updated>
             <summary>
                 <![CDATA[
                      Early Years &amp; Bonus Stuff M.O.T.I Days Today + Future insert more iframes 
@@ -133,7 +149,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/photos.html"/>
         <id>https://ioionu.github.io/shaneblade.com/photos.html</id>
 
-        <updated>2020-07-26T20:32:33+10:00</updated>
+        <updated>2020-07-26T20:50:25+10:00</updated>
             <summary>
                 <![CDATA[
                      this is a photo block 
@@ -172,7 +188,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/discography.html"/>
         <id>https://ioionu.github.io/shaneblade.com/discography.html</id>
 
-        <updated>2020-07-26T20:32:33+10:00</updated>
+        <updated>2020-07-26T20:50:25+10:00</updated>
             <summary>
                 <![CDATA[
                      Awake Destiny From here to there 
