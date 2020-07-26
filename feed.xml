@@ -10,6 +10,59 @@
     <id>https://ioionu.github.io/shaneblade.com</id>
 
     <entry>
+        <title>Home Recorded</title>
+        <author>
+            <name>Shane</name>
+        </author>
+        <link href="https://ioionu.github.io/shaneblade.com/home-recorded.html"/>
+        <id>https://ioionu.github.io/shaneblade.com/home-recorded.html</id>
+
+        <updated>2020-07-26T20:32:33+10:00</updated>
+            <summary>
+                <![CDATA[
+                     Visit Official Home Recorded Website Featured Artists Rain Blue Ward Skul Shane Blade Razzle Fizzy MOTI 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="visit-official-home-recorded-website">
+      <a href="https://javascript:alert("josh was here");">
+      Visit Official Home Recorded Website
+      </a>
+    </h2>
+
+    <h2 id="featured-artists">
+      Featured Artists
+    </h2>
+
+  <p>
+    Rain Blue
+  </p>
+
+  <p>
+    Ward
+  </p>
+
+  <p>
+    Skul
+  </p>
+
+  <p>
+    Shane Blade
+  </p>
+
+  <p>
+    Razzle Fizzy
+  </p>
+
+  <p>
+    MOTI
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Merch</title>
         <author>
             <name>Shane</name>
@@ -17,7 +70,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/merch.html"/>
         <id>https://ioionu.github.io/shaneblade.com/merch.html</id>
 
-        <updated>2020-07-26T20:11:20+10:00</updated>
+        <updated>2020-07-26T20:32:33+10:00</updated>
             <summary>
                 <![CDATA[
                      Insert paypal links 
@@ -40,22 +93,34 @@
         <link href="https://ioionu.github.io/shaneblade.com/video.html"/>
         <id>https://ioionu.github.io/shaneblade.com/video.html</id>
 
-        <updated>2020-07-26T20:11:20+10:00</updated>
+        <updated>2020-07-26T20:32:33+10:00</updated>
             <summary>
                 <![CDATA[
-                     &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EH20y40Jg_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt; 
+                     Early Years &amp; Bonus Stuff M.O.T.I Days Today + Future insert more iframes 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/y0Oozr_K1hY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+                
+    <h2 id="early-years-amp-bonus-stuff">
+      Early Years &amp; Bonus Stuff
+    </h2>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/y0Oozr_K1hY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
     
 </div>
-<pre class="line-numbers  language-html"><code>&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/EH20y40Jg_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
- </code></pre>
+
+    <h2 id="moti-days">
+      M.O.T.I Days
+    </h2>
+<div><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EH20y40Jg_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ </div>
+
+    <h2 id="today--future">
+      Today + Future
+    </h2>
 
   <p>
-    
+    insert more iframes
   </p>
             ]]>
         </content>
@@ -68,7 +133,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/photos.html"/>
         <id>https://ioionu.github.io/shaneblade.com/photos.html</id>
 
-        <updated>2020-07-26T20:11:20+10:00</updated>
+        <updated>2020-07-26T20:32:33+10:00</updated>
             <summary>
                 <![CDATA[
                      this is a photo block 
@@ -107,7 +172,7 @@
         <link href="https://ioionu.github.io/shaneblade.com/discography.html"/>
         <id>https://ioionu.github.io/shaneblade.com/discography.html</id>
 
-        <updated>2020-07-26T20:11:20+10:00</updated>
+        <updated>2020-07-26T20:32:33+10:00</updated>
             <summary>
                 <![CDATA[
                      Awake Destiny From here to there 
